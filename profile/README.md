@@ -1,8 +1,7 @@
 # Welcome to *Dpils-software!*
 
 <p align="center">
-    <img src="https://github.com/Dpils-s/.github/assets/92020227/728611dc-7d1c-4b6d-8b0f-726b02693b11
-"></img>
+<img src="https://github.com/Otrigos/Portfolio_S3_ArtjomsF/assets/92020227/9c70526e-55dc-41b0-a36f-83d1f461b088" alt="GIF Broke :(" width="50%" height="50%" />
 </p>
 
 *Dpils-s* is an open-source school project, providing delivery rider with a Rider-maps to get through their routes.
