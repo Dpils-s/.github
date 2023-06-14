@@ -81,7 +81,9 @@ Then Front-end should be accesible with the link: http://localhost:4000/
 There you will see navigation bar with only 2 links Home and Create Address
 
 If you go to Create Address you will be redirected to a page where you can specify address(It's setted to show only addresses from Eindhoven and surroundings)
+
 After you press "Save" button you should be redirected to Home page and see this address as in the list.
+
 If you click "Start ride" button you will redirected to Route page where you will see the route(It sets routes for bikes and start point as imitation of Shop HUB is Fontys ICT building on Rachesmolen)
 
 ### That's it, I hope you enjoyed this small demo
