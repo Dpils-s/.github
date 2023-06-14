@@ -55,6 +55,26 @@ npm run build
 
 npm run serve
 ```
+If you succeed you should see something like this:
+
+```
+> rider-system@0.1.0 serve
+> vue-cli-service serve
+
+ INFO  Starting development server...
+
+
+ DONE  Compiled successfully in 1868ms                                                                                                                                                                                                                                                                    9:28:41 PM
+
+
+  App running at:
+  - Local:   http://localhost:4000/ 
+  - Network: http://192.168.88.245:4000/
+
+  Note that the development build is not optimized.
+  To create a production build, run npm run build.
+
+```
 
 Then Front-end should be accesible with the link: http://localhost:4000/
 
