@@ -64,7 +64,7 @@ If you succeed you should see something like this:
  INFO  Starting development server...
 
 
- DONE  Compiled successfully in 1868ms                                                                                                                                                                                                                                                                    9:28:41 PM
+ DONE  Compiled successfully in 1868ms
 
 
   App running at:
