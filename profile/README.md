@@ -21,6 +21,8 @@ First, you clone all of the following GIT repositories from this organization:
 
 Unzip the files:
 
+## Rider-Data
+
 First open Rider-Data project in any preffered IDE.
 
 Go to src/app.ts and change MongoDB connection string to your(usually it's done in .env file but my back-end for some reasons didn't want to work with it)
@@ -45,7 +47,14 @@ Connected to MongoDB!
 App listening on port 4080!
 ```
 
+## Rider-maps
+
 Then open Rider-maps project
+
+create .env file in your root folder and add 
+```
+VUE_APP_API_KEY=your_google_maps_API_key
+```
 
 Then run in your Terminal from Rider-maps folder
 ```
